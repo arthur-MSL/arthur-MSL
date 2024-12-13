@@ -1,16 +1,23 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**arthur-MSL/arthur-MSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Olá sou o Arthur Marques:<br><br>- 👨‍💻 Estudante de Ciência da Computação | UFU<br>- 🖥️ Técnico em Redes de Computadores | IFTM</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur-MSL&hide=issues&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="315" alt="stats graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href=https://www.instagram.com/arthurm.sl"target="_blank><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
+  
+</div>
+
+###
