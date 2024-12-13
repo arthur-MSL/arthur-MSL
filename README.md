@@ -5,8 +5,10 @@
 </div>
 
 #
+<p align="center"> Olá, me chamo Arthur Marques 👋
 
-<p align="center">Estudante de Ciência da Computação na Faculdade Federal de Uberlândia e formado em Redes de Computadores no Instituto Federal de Minas Gerais.
+<p align="center">- 👨‍💻Estudante de Ciência da Computação | UFU
+<p align="center">- 🖥️Redes de Computadores | IFTM
   
 #
 
