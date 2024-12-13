@@ -10,7 +10,7 @@
   
 #
 
-<img align="right" alt="" height="200px" src="src/giphy (1).webp">
+<img align="right" alt="" height="190px" src="src/giphy (1).webp">
 
 <h3 align="left">Connect with me!</h3>
 
