@@ -2,7 +2,6 @@
 Olá, me chamo Arthur Marques 👋<br><br>- 👨‍💻Estudante de Ciência da Computação | UFU<br><br>- 🖥️Redes de Computadores | IFTM
 
 
-# 💻 Tech Stack:
 
 # **Linguagens & Backend**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
