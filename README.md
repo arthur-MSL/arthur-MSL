@@ -1,7 +1,4 @@
-<!-- CABEÇALHO COM BANNER E ANIMAÇÃO -->
-<p align="center">
-  <img src="./banner.png" alt="Arthur Marques Banner" width="100%" />
-</p>
+
 
 <h1 align="center">🚀 Olá! Eu sou o Arthur Marques</h1>
 
