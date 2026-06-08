@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Olá! Eu sou o Arthur Marques</h1>
 
 <div align="center">
-  <!-- Typing SVG Animation -->
+  <!-- Typing SVG Animation (100% Estável, não depende do status do GitHub) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFU;T%C3%A9cnico+em+Redes+de+Computadores+%40+IFTM;Backend%2C+Infraestrutura+%26+Dados+%E2%9A%A1;Apaixonado+por+Automa%C3%A7%C3%A3o+e+Monitoramento" alt="Typing SVG" />
 </div>
 
@@ -35,17 +35,6 @@ Com uma base sólida em infraestrutura de redes e algoritmos, meu foco é o dese
 - 🖥️ Técnico em **Redes de Computadores** pelo **IFTM**
 - 💡 Áreas de interesse: **Backend, Redes, DevOps e Observabilidade**
 - ⚙️ Automação e otimização de processos são meus hobbies favoritos!
-
----
-
-<!-- TROFÉUS DO GITHUB (GAMIFICATION) -->
-### 🏆 Conquistas no GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arthur-MSL&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" alt="Trofokus" />
-  </a>
-</p>
 
 ---
 
@@ -85,33 +74,13 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho organizadas por f
 
 ---
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-### 📊 Métricas e Atividades
+<!-- DICA DE METRICAS E DADOS -->
+### 📊 Atividade no GitHub
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="center">
-        <a href="https://github.com/arthur-MSL">
-          <img src="https://github-readme-stats.vercel.app/api?username=arthur-MSL&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="195" />
-        </a>
-      </td>
-      <td align="center" valign="center">
-        <a href="https://github.com/arthur-MSL">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-MSL&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="195" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+Para ver minhas contribuições e projetos mais recentes, dê uma olhada nos meus repositórios ativos abaixo:
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/arthur-MSL">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-MSL&theme=tokyonight&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0" alt="Gráfico de Atividade" width="100%" />
-  </a>
-</p>
+*   📌 **[Projetos em Destaque](https://github.com/arthur-MSL?tab=repositories)**
+*   📈 **[Histórico de Contribuições](https://github.com/arthur-MSL?tab=overview)**
 
 ---
 
