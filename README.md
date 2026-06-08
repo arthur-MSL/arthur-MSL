@@ -34,7 +34,7 @@ Tenho paixão por desenvolvimento backend, arquitetura de dados, infraestrutura 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-Para manter o visual limpo e moderno, aqui estão as principais tecnologias que utilizo divididas por especialidade:
+
 
 <table>
   <tr>
@@ -65,25 +65,25 @@ Para manter o visual limpo e moderno, aqui estão as principais tecnologias que 
   </tr>
 </table>
 
-> 💡 **Dica:** Sinta-se à vontade para adicionar outras ferramentas comuns como `git`, `github`, `docker` na seção que preferir!
+
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-*(Lembre-se de substituir `SEU_USUARIO_GITHUB` pelo seu username real do GitHub nas URLs abaixo)*
+
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB">
-          <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="195" />
+        <a href="https://github.com/arthur-MSL">
+          <img src="https://github-readme-stats.vercel.app/api?username=arthur-MSL&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="195" />
         </a>
       </td>
       <td align="center" valign="center">
         <a href="https://github.com/SEU_USUARIO_GITHUB">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="195" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-MSL&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="195" />
         </a>
       </td>
     </tr>
